@@ -1,0 +1,27 @@
+Notes
+
+1. TDD
+2. BDD
+
+Integrations:
+1. Java - PL
+2. Selenium - AT
+3. TEstNG- Testing Tool
+4. Apache POI - Excel Management
+5. Maven
+
+POM: Page Object Model
+
+Naming Conventions:
+package - reverse of the domain
+com.whatsapp.
+
+Class - Students, StudentsInfo, StudentsMonthlyAttendance
+Methods & Variables - name, studentName, aadharCardNumber, txt_username
+btn_login, loginBtn
+
+folder structure:
+src/main/java - know only java and selenium code
+src/test/java - know only testng and java
+
+
