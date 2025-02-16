@@ -48,5 +48,9 @@ public class LoginPageTest {
 		Assert.assertTrue(dp.getDashboardLabel());
 		
 	}
+	
+	public void m1() {
+		
+	}
 
 }
